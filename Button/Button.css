@@ -1,0 +1,35 @@
+.button1 {
+	background-color: transparent;
+	color: rgba(83, 203, 224, 0.884);
+	border-color: rgba(83, 203, 224, 0.884);
+	border-radius: 20px;
+	padding: 4px 45px;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 30px;
+	cursor: pointer;
+	font-size: 15px;
+	font-weight: bold;
+}
+.button2 {
+	background-color: rgb(47, 211, 184);
+	border: none;
+	color: white;
+	padding: 7px 12px;
+	display: inline-block;
+	margin: 4px 30px;
+	border-radius: 50%;
+	cursor: pointer;
+	font-size: 20px;
+}
+.button3 {
+	background-color: #2284e0;
+	color: rgb(255, 255, 255);
+	padding: 7px 30px;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 30px;
+	cursor: pointer;
+	border: 2px solid black;
+	box-shadow: 3px 3px 2px 1px black;
+}
