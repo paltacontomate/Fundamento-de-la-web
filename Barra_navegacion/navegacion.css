@@ -1,5 +1,7 @@
  body {
     font-family: sans-serif;
+    display:block;
+    margin: 0px;
   }
 
 
@@ -8,10 +10,9 @@
   }
 
   ul {
-    /*outline: 1px solid blue;*/
-    list-style: none;
-    padding: 0;
-    margin: 1;
+  
+    padding: 1;
+    margin: 0;
     background: #000000;
     line-height: 40px;
     overflow: auto;
@@ -39,7 +40,8 @@
   }
 
   .boton{
-    text-align: right;  
+
+    position: absolute; right: 1%;
     background: #00b7f8;
     border-bottom: 10px solid #0045a6;
     border-radius: 12px;
